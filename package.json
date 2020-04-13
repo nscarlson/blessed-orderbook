@@ -1,0 +1,27 @@
+{
+    "name": "blessed-orderbook",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "build": "rm -f tsconfig.tsbuildinfo && yarn tsc -b",
+        "dev": "yarn start-dev",
+        "start-dev": "run-p start-dev:*",
+        "start-dev:build": "yarn build --watch",
+        "start-dev:run": "nodemon --delay 80ms --inspect=0.0.0.0:4001 -r dotenv/config ./build/index.js"
+    },
+    "dependencies": {
+        "@types/blessed": "^0.1.17",
+        "@types/node": "^13.11.1",
+        "@types/ws": "^7.2.3",
+        "asciichart": "^1.5.15",
+        "axios": "^0.19.2",
+        "blessed": "^0.1.81",
+        "dotenv": "^8.2.0",
+        "moment": "^2.24.0",
+        "nodemon": "^2.0.3",
+        "npm-run-all": "^4.1.5",
+        "typescript": "^3.8.3",
+        "ws": "^7.2.3"
+    }
+}
