@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "@types/blessed": "^0.1.17",
-        "@types/node": "^13.11.1",
+        "@types/node": "^14.0.0",
         "@types/ws": "^7.2.3",
         "asciichart": "^1.5.15",
         "axios": "^0.19.2",
