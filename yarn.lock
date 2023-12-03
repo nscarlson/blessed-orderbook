@@ -42,9 +42,9 @@ anymatch@~3.1.2:
     picomatch "^2.0.4"
 
 asciichart@^1.5.15:
-  version "1.5.15"
-  resolved "https://registry.yarnpkg.com/asciichart/-/asciichart-1.5.15.tgz#dbc7d4bf31437149e3c0cd4dca03bfc9c7d377eb"
-  integrity sha512-0XHe9H/NB1A717Ji8IhNK7NIvdqxQfEVfTVqFqkQAK06N3qqnIldsU1o4O8KuYhHoCADOiC/Xeg6ZmbJyFtrTA==
+  version "1.5.25"
+  resolved "https://registry.yarnpkg.com/asciichart/-/asciichart-1.5.25.tgz#f5aca189801b4e58019139bbb5922ab3cae3ca90"
+  integrity sha512-PNxzXIPPOtWq8T7bgzBtk9cI2lgS4SJZthUHEiQ1aoIc3lNzGfUvIvo9LiAnq26TACo9t1/4qP6KTGAUbzX9Xg==
 
 axios@^0.19.2:
   version "0.19.2"
