@@ -3,18 +3,13 @@
 
 
 "@types/blessed@^0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@types/blessed/-/blessed-0.1.17.tgz#15b3280a6b8729f3c270a762ccafc8514ac5120d"
-  integrity sha512-BKvUtnrXksNdK0fOYV/9HJGkjCcAvOGMSCJsiHaBFyBeyqHwy2OHK32r5XNI+q0eXuAuGqtPOnDetHnbZoYqag==
+  version "0.1.25"
+  resolved "https://registry.yarnpkg.com/@types/blessed/-/blessed-0.1.25.tgz#ab415f4c81f1dab8bf1e4fb98146c7f0f4e4e181"
+  integrity sha512-kQsjBgtsbJLmG6CJA+Z6Nujj+tq1fcSE3UIowbDvzQI4wWmoTV7djUDhSo5lDjgwpIN0oRvks0SA5mMdKE5eFg==
   dependencies:
     "@types/node" "*"
 
-"@types/node@*":
-  version "13.11.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.11.1.tgz#49a2a83df9d26daacead30d0ccc8762b128d53c7"
-  integrity sha512-eWQGP3qtxwL8FGneRrC5DwrJLGN4/dH1clNTuLfN81HCrxVtxRjygDTUoZJ5ASlDEeo0ppYFQjQIlXhtXpOn6g==
-
-"@types/node@^20.0.0":
+"@types/node@*", "@types/node@^20.0.0":
   version "20.12.4"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.12.4.tgz#af5921bd75ccdf3a3d8b3fa75bf3d3359268cd11"
   integrity sha512-E+Fa9z3wSQpzgYQdYmme5X3OTuejnnTx88A6p6vkkJosR3KBz+HpE3kqNm98VE6cfLFcISx7zW7MsJkH6KwbTw==
