@@ -11,17 +11,17 @@
         "start-dev:run": "nodemon --delay 80ms --inspect=0.0.0.0:4001 -r dotenv/config ./build/index.js"
     },
     "dependencies": {
-        "@types/blessed": "^0.1.17",
-        "@types/node": "^20.0.0",
-        "@types/ws": "^8.0.0",
+        "@types/blessed": "^0.1.25",
+        "@types/node": "^20.12.4",
+        "@types/ws": "^8.5.10",
         "asciichart": "^1.5.15",
-        "axios": "^0.19.2",
+        "axios": "^1.6.8",
         "blessed": "^0.1.81",
-        "dotenv": "^8.2.0",
+        "dotenv": "^16.4.5",
         "moment": "^2.24.0",
         "nodemon": "^3.0.0",
         "npm-run-all": "^4.1.5",
-        "typescript": "^5.0.0",
-        "ws": "^7.2.3"
+        "typescript": "^5.4.4",
+        "ws": "^8.16.0"
     }
 }
