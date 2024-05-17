@@ -14,7 +14,7 @@
         "@types/blessed": "0.1.25",
         "@types/node": "20.12.4",
         "@types/ws": "8.5.10",
-        "asciichart": "1.5.15",
+        "asciichart": "1.5.25",
         "axios": "1.6.8",
         "blessed": "0.1.81",
         "dotenv": "16.4.5",
