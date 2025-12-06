@@ -11,7 +11,7 @@
         "start-dev:run": "nodemon --delay 80ms --inspect=0.0.0.0:4001 -r dotenv/config ./build/index.js"
     },
     "dependencies": {
-        "@types/blessed": "0.1.25",
+        "@types/blessed": "0.1.27",
         "@types/node": "20.14.1",
         "@types/ws": "8.18.1",
         "asciichart": "1.5.25",
